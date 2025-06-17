@@ -1,5 +1,4 @@
 ---
-
 # 🧑‍💼 HR Data Analysis using SQL
 
 ## 📌 Overview
@@ -267,19 +266,6 @@ JOIN locations l ON d.location_id = l.location_id;
 **Prince Yadav**
 This project is part of my portfolio to showcase **SQL and Data Analysis** skills.
 
-Feel free to connect with me:
-
-* 🔗 **LinkedIn**: \[Your LinkedIn Profile]
-* 📺 **YouTube**: \[Your Channel Name]
-* 📷 **Instagram**: \[Your Handle]
-* 💬 **Discord**: \[Invite Link or Community Name]
-
----
-
 ## 📄 License
 
 This project is open for learning and collaboration. Please give credits if reused.
-
----
-
-Would you like me to generate the actual `README.md` file so you can upload it directly to GitHub?
